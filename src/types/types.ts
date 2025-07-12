@@ -3,5 +3,5 @@ export const ACTIONS = {
   CHOOSE_OPERATION: "choose-operation",
   CLEAR: "clear",
   ALL_CLEAR: "all-clear",
-  EVALUETE: "evaluete",
+  EVALUATE: "evaluate",
 } as const;
